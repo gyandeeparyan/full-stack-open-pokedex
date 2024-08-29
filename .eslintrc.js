@@ -31,4 +31,4 @@ module.exports = {
       version: "detect", // Automatically detect the React version
     },
   },
-};
+}
